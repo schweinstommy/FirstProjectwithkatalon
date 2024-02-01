@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4d1cbf46-b9e5-49cd-b89c-4aee56432725</webElementGuid>
+      <webElementGuid>9de572b1-5991-4b77-aea3-bcdbe452b237</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1</value>
-      <webElementGuid>1c1182ae-cebb-4c1a-86f6-07d014b9cbc2</webElementGuid>
+      <webElementGuid>02f50366-3ea8-4f58-997f-5f235f6e1370</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>ad003c52-90fc-4039-abe9-3f7101d6f968</webElementGuid>
+      <webElementGuid>4a3f41da-138e-4c3a-95f6-1d2170e18290</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginForm&quot;)/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh xqui205 x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1&quot;]/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1xmf6yo x1e56ztr x540dpk x1m39q7l x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1&quot;]/button[@class=&quot;_acan _acap _acas _aj1- _ap30&quot;]/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1&quot;]</value>
-      <webElementGuid>ee3c0764-df3a-4ffe-a214-1fa039df95e3</webElementGuid>
+      <webElementGuid>b007be3d-e22d-4091-b4fc-326d37d6c1e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='loginForm']/div/div[3]/button/div</value>
-      <webElementGuid>ab482e3c-58b0-4b91-9a5d-9fe998ac203f</webElementGuid>
+      <webElementGuid>6a9a840f-2bd2-4fcf-93f1-a2ebb0a03798</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div</value>
-      <webElementGuid>93d53e73-7bda-4c48-9383-e158196013da</webElementGuid>
+      <webElementGuid>54b0a23c-c69b-4db5-8484-89dd3389f20f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>d5a9ec41-10a2-4166-92af-330a9c488565</webElementGuid>
+      <webElementGuid>eece119e-b5b4-4b2a-9f32-f85079990a0a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
